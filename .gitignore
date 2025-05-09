@@ -1,8 +1,6 @@
 .vs/
 .vscode/
 __pycache__/
-/test*
-test.py
 /logs
 /uploads
 /build
